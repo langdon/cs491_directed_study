@@ -1,0 +1,14 @@
+https://dl.acm.org/results.cfm?query=plan+9&Go.x=0&Go.y=0
+https://dl.acm.org/results.cfm?within=owners.owner%3DHOSTED&srt=_score&query=qubes&Go.x=0&Go.y=0
+https://github.com/rancher/os
+https://dl.acm.org/citation.cfm?id=605491
+https://dl.acm.org/citation.cfm?id=587076
+https://blog.jessfraz.com/
+https://blog.jessfraz.com/post/personal-infrastructure/
+https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/
+https://blog.jessfraz.com/post/runc-containers-on-the-desktop/
+https://blog.jessfraz.com/post/docker-containers-on-the-desktop/
+https://www.joyent.com/blog/unikernels-are-unfit-for-production
+https://blogs.gnome.org/alexl/2018/06/20/flatpak-a-history/
+https://dl.acm.org/citation.cfm?id=3313945
+https://dl.acm.org/citation.cfm?id=3267845
