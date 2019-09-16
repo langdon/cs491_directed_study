@@ -16,7 +16,11 @@ To research and explore how can we can build modern software systems that operat
 
 
 # Project Overview
-Coming soon
+Phase I - An implementation of the base system with DNS, noting how we can run applications with services they depend on unleased
+
+Initial research question: TBA
 
 # Project Components 
 Coming soon
+
+Case Study 1 - Plan 9
